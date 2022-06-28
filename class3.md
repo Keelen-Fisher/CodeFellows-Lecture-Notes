@@ -41,4 +41,4 @@
 > Mistakes will happen, that's sort of the point!
  There are also situations where you make corrections on git hub first, then create the same class but with different info, these are some of what we call **Gituations!!** and there's a process on how to fix that problem.
 
-[Home:](https://keelen-fisher.github.io/reading-notes/)
+[Home:](https://keelen-fisher.github.io/new-repository/)

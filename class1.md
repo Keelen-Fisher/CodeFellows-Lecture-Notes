@@ -27,4 +27,4 @@ From headings to paragraphs and images, markdown utilizes basic syntax to develo
 -Make sure that the ordered list is not through a parenthesis, but with a period.
 -Images could be used and displayed in many ways, one of the easier options is to drag an image from your file explorer to display the image.
 
-[Home:](https://keelen-fisher.github.io/reading-notes/)
+[Home:](https://keelen-fisher.github.io/new-repository/)

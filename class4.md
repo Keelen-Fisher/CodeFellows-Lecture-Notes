@@ -65,3 +65,5 @@ This is the rough draft, so no need to use extensive effort to draw and illustra
 - Confidence
 
 - Simplicity is Key
+
+[Home:](https://keelen-fisher.github.io/new-repository/)
