@@ -23,7 +23,7 @@ You want the user to see what's in the body, and the header is gernerally at the
 
 ## Making your First Wireframe
 
-[](https://slickplan.com/blog/best-sketch-wireframe-kits-to-get-your-project-started)
+![Wire](https://slickplan.com/blog/best-sketch-wireframe-kits-to-get-your-project-started)
 
 ### The Definition of Wireframe
 
