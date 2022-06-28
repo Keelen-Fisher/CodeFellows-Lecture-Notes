@@ -7,12 +7,12 @@
 ### - Where to Start?
 
 The perfect text editor can be different depending on the person that you're asking. Overall, a text editor is your helper, that assists in mangement of your writings which can help you for when you create your website.
--A few features to pay attention to when you're looking for the right editor:
+ A few features to pay attention to when you're looking for the right editor:
 
--Can your syntax be **highlighted**?
--Can you choose between a plethora of themes that matches with your own creation?
--Are you able to significantly finish your programs without having to put so much stress physically and mentally as before?
--And Lastly, can this editor assist you in staying organized throughout the entire time that you're writing your program?
+1. Can your syntax be **highlighted**?
+2. Can you choose between a plethora of themes that matches with your own creation?
+3. Are you able to significantly finish your programs without having to put so much stress physically and mentally as before?
+4. And Lastly, can this editor assist you in staying organized throughout the entire time that you're writing your program?
   These are only some of the recommendations.
   
   >So What Are Some Already-Known Options?

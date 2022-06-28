@@ -6,10 +6,10 @@
 
 ### What Exactly Is It?
 
--A way to keep track of your projects throught each stage of them
--Multiple developers can work on the same code and records the history of our changes
--A way to share code and collaboration
--dvcs (Distrinuted version control system)
+1. A way to keep track of your projects throught each stage of them
+2. Multiple developers can work on the same code and records the history of our changes
+3. A way to share code and collaboration
+4. dvcs (Distrinuted version control system)
 
 >### So basically, it's like having **ALL** of your saved files and workings in one repository
 
@@ -39,6 +39,6 @@
 ![Placing in new files in repository in git hub Code 102](https://user-images.githubusercontent.com/108201205/176253159-a4df36d4-1a3f-486d-8bc6-c6068f01c45f.png)
 
 > Mistakes will happen, that's sort of the point!
--There are also situations where you make corrections on git hub first, then create the same class but with different info, these are some of what we call **Gituations!!** and there's a process on how to fix that problem.
+ There are also situations where you make corrections on git hub first, then create the same class but with different info, these are some of what we call **Gituations!!** and there's a process on how to fix that problem.
 
 [Home:](https://keelen-fisher.github.io/reading-notes/)
