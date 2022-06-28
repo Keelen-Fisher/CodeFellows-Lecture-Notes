@@ -21,6 +21,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 3. [Class 3 Notes - Revisions and the Cloud:](class3.md)
 
+4. [Class 4 Notes - HTML:](class4.md)
+
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
 A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!

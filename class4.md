@@ -13,13 +13,20 @@
     - header
     - paragraph
 
+    So you have the Body, Then to the header.
+    - In the header, you have h1, nav, and a. a is for the links,
+    - Next we have the main. the main will have h2, sections,and div tag.
+    - to continue in the main, we have the image (img) with a potential h3, ul (unordered list), and a lot of li (list items).
+    - What is section? section means that the content inside is a single theme.
+    - The footer: with paragraph (p)
+
 You want the user to see what's in the body, and the header is gernerally at the beginninig of the body.
 
 ### What is a semantic element?
 
 - A general representation of the element used, ex: body, main, all that organizes the code and showcases the simplicity of your code. It asks itself "What is it's job?"
 
-[Semantics Cheat Sheet:](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+[Semantics Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
 
 ## Making your First Wireframe
 
