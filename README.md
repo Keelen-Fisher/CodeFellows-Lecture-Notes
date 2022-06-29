@@ -23,6 +23,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 4. [Class 4 Notes - HTML:](class4.md)
 
+5. [Class 5 Notes - Design Webpages with CSS:](class5.md)
+
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
 A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!
