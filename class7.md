@@ -30,6 +30,6 @@ This function can be ***called*** on, or in otherwords when a statement reaches 
 
 ### Function Return
 
-- When there's a return statement, the fuction's execution is now at a complete stop. [Example of a Function and Return:](Function and Return.png)
+- When there's a return statement, the fuction's execution is now at a complete stop. [Example of a Function and Return:](FunctionandReturn.png)
 
 The purpose of these functions is to reuse the code for as many times as you want.
