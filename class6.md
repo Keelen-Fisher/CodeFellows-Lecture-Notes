@@ -4,7 +4,13 @@
 
  JavaScript is the interavtive piece of your website. dynamic in it's language, it adds versatility and interaction within you program, as stated above.
 
- - JavaScript has variables that you need to know about:
+ > JavaScript reads from top to bottom so make sure to organize your code at all times!
+
+## What Are Variables
+
+- Something that holds data, it can be changes and similar to algebra.
+
+- You need to declare variables in JavaScript has variables that you need to know about:
 
     - String
 
@@ -12,9 +18,27 @@
 
     - Boolean
 
+        - These are going to be the main three that we're going to use in Code 102!
+
     - Array
 
     - Object
+
+- You can ***Declare*** a variable by giving it a valuble:
+
+    - let x; <-- declare variable
+
+    - const y = 4; <-- declare variable and assign it a variable
+
+    - let z; <-- declare variable
+
+    - z = 4 <-- reassigning the variable
+
+- There are 3 Ways to Declare a variable:
+
+    - Let: can be changed
+
+    - Const: Doesn't Change
 
 You are also able to comment out lines of code similar to CSS
 
