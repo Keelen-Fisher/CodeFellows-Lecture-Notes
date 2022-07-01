@@ -70,3 +70,5 @@ a += b: easier way to say a = a + b
 - While Loops (potentially infinite) can run as long as the user enters a different answer from the expected outcome.
 
 - For Loops runs however many number that the pprogrammer inserts into its code.
+
+[Home](https://keelen-fisher.github.io/new-repository/)

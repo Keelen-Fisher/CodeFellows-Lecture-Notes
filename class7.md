@@ -33,3 +33,5 @@ This function can be ***called*** on, or in otherwords when a statement reaches 
 - When there's a return statement, the fuction's execution is now at a complete stop.
 
 The purpose of these functions is to reuse the code for as many times as you want.
+
+[Home](https://keelen-fisher.github.io/new-repository/)

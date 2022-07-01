@@ -27,6 +27,10 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 6. [DYNAMIC Web Pages with JavaScript:](class6.md)
 
+7. [Programming With JavaScript:](class7.md)
+
+8. [Operators and Loops:](class8.md)
+
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
 A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!
