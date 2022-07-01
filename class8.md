@@ -31,7 +31,7 @@ An assingnment operator creates a value to the left operand depending on the val
 ### Assigning to properties
 
 - If an expression evaluates to an object, then the left-hand side of an assignment expression may make assignments to properties of that expression. For example:
-![assign](./Assigning.png)
+![Assign](Assigning.png)
 
 ### Comparison operators
 
