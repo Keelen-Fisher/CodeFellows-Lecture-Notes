@@ -46,4 +46,16 @@
 
 - The first step in designing a website is What exactly do ***YOU*** Want to accomplish?
 
+## Semantics
+
+- The purpose of using h1 for top level heading is By default, most browser's user agent stylesheet will style an with a large font size to make it look like a heading (although you could style it to look like anything you wanted).
+
+- Whereas with span element, it will will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is therefore a good idea to use the right HTML element for the right job.
+
+## What is JavaScript
+
+- A couple of things that require JavaScript in the Browser is displying timely updates and interactive maps.
+
+- JavaScript can be added into your HTML using the same application as CSS. You need to use the script element.
+
 ## Things I want to know more about
