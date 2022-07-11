@@ -59,3 +59,5 @@
 - JavaScript can be added into your HTML using the same application as CSS. You need to use the script element.
 
 ## Things I want to know more about
+
+[Home:](https://keelen-fisher.github.io/new-repository/)
