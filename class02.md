@@ -2,7 +2,7 @@
 
 ## Introduction to HTML Continued
 
->> The purpose of using semantic elemts in the HTML is to establish hiearchy and organization. This prevents unordered placements across your web page and help with how to style the page. It is also important to keep in mind the users, you want to make sure that you're keeping your code easier to understand and readable.
+>> The purpose of using semantic elements in the HTML is to establish hiearchy and organization. This prevents unordered placements across your web page and help with how to style the page. It is also important to keep in mind the users, you want to make sure that you're keeping your code easier to understand and readable.
 
 - There are currently 6 heading elements: h1, h2, h3, h4, h5, h6. h1 represents the main heading, with all the rest being subheadings
 
@@ -18,7 +18,7 @@
 
 - External Stylesheet: CSS within a seperate file in a .css extension. Your external CSS stylesheet can be used with link element.
 
-- Internal Stylesheet: This stylesheet resudes in the HTML document instead of the link elemment, you place in style element.
+- Internal Stylesheet: This stylesheet resides in the HTML document instead of the link element, you place in style element.
 
 - Inline Styles: These are CSS implications within a single HTML element, still using style element. This style however, should be avoided due to its inefficiency of implementation. This can cause unessesary code edits for just one change.
 
@@ -32,7 +32,7 @@
 
 - These are some of the JavaScript operators: addition, subtraction, multiplication, division, assignment, strict equality, not and does not equal.
 
-- Functions assist in reusable code. Examole could be multiplication, if a person is looking for a way to input values on multiple lines of code while using the same function that has the necessary equation to multiply them, this could be a useful tool to take away unessessary time.
+- Functions assist in reusable code. Example could be multiplication, if a person is looking for a way to input values on multiple lines of code while using the same function that has the necessary equation to multiply them, this could be a useful tool to take away unessessary time.
 
 ## Conditionals in your code
 
