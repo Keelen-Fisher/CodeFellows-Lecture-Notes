@@ -54,6 +54,44 @@
 
 - ***OR*** you can chain together two or more expressions, the difference is that the expressions are individual evaluations.
 
+## JavaScript (Provided by Instructor)
+
+- loosely typed
+
+- It is also dynamic, which means that you can change the type after the variable has been declared.
+
+Example:
+
+let cat;
+
+cat = 3;
+
+cat = 'queeeee';
+
+### Numbers
+
+- numeric data types
+
+- Full number, negative, decimals
+
+### Boolean
+
+- logical data type
+
+- true, false
+
+- truthy and falsey
+
+### Undefined
+
+- Means that it doesn't have a definition ***YET***
+
+- Can break your code (Like a break)
+
+### Null
+
+- Defined as nothing/none
+
 ## Things I want to Know About
 
 [Home](https://keelen-fisher.github.io/new-repository/)
