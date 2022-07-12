@@ -39,4 +39,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  1. [Pre Work Notes: Class 01 Introduction to Web and HTML](class01.md)
 
+ 2. [Basics of HTML, CSS and JS:](class02.md)
+
 A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!

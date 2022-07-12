@@ -55,3 +55,5 @@
 - ||: ***OR*** you can chain together two or more expressions, the difference is that the expressions are individual evaluations.
 
 ## Things I want to Know About
+
+[Home](https://keelen-fisher.github.io/new-repository/)
