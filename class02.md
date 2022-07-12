@@ -52,7 +52,7 @@
 
 - &&: ***AND*** you can chain together two or more expressions so that all of the expressions have to individually evaluate to true.
 
-- ||: ***OR*** you can chain together two or more expressions, the difference is that the expressions are individual evaluations.
+- ***OR*** you can chain together two or more expressions, the difference is that the expressions are individual evaluations.
 
 ## Things I want to Know About
 
