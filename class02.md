@@ -34,7 +34,6 @@
 
 - Functions assist in reusable code. Examole could be multiplication, if a person is looking for a way to input values on multiple lines of code while using the same function that has the necessary equation to multiply them, this could be a useful tool to take away unessessary time.
 
-
 ## Conditionals in your code
 
 - An if statement checks a ***condition***, and if it evaluates to ***true***, then the code block will execute.
