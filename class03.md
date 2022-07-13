@@ -1,4 +1,4 @@
-# HTMl Lists, Control Flow with JS, and the CSS Box Model
+# HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ## HTML Lists
 
@@ -22,7 +22,7 @@
 
 ### The Box Model: Return of the Margin and the Padding
 
->> In a world where it's spaced or be spaced, comes two heros who have been around since the beginning of HTML. Captain Margin!! Withi its perceptive vision and space bending powers, it can grow a page's borders in its size on ***ALL*** Sides, incredible!!! With the powers of length and percentage, it can fix the size of margin and the width!! And Its comrade, Commander Padding!!! With its strength in defense for margin, this one-two punch will beat any opponent!
+>> In a world where it's spaced or be spaced, comes two heros who have been around since the beginning of HTML. Captain Margin!! With its perceptive vision and space bending powers, it can grow a page's borders in its size on ***ALL*** Sides, incredible!!! With the powers of length and percentage, it can fix the size of margin and the width!! And Its comrade, Commander Padding!!! With its strength in defense for margin, this one-two punch will beat any opponent!
 
 ### The Four Sides of an HTML elements Box
 
