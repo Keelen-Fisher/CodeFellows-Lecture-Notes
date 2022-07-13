@@ -37,8 +37,10 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 ## Code 201
 
- 1. [Pre Work Notes: Class 01 Introduction to Web and HTML](class01.md)
+ 1. [Pre Work Notes: Class 01 Introduction to Web and HTML:](class01.md)
 
  2. [Basics of HTML, CSS and JS:](class02.md)
 
-A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!
+ 3. [HTMl Lists, Control Flow with JS, and the CSS Box Model:](class03.md)
+
+A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
