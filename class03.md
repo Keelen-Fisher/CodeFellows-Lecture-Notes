@@ -42,6 +42,24 @@
 
 - You can store strings, numbers, objects, and other arrays. You can find the length of an array by entering the console log of the variable. You can also find specific items by the index and ***push*** items into the array.
 
+- Data Type/Data Structure ***Special type of object***
+
+- A collection, list of elements
+
+  - can be mixed, in JS, we don't have to determine the size of the array.
+
+  - Every element in the array will have a position.
+
+- Index: a way we can locate elements in the array.
+
+  - Zero based index: all lists will have 0.
+
+- ***Pop***: Removes teh last element of an array.
+
+- Property
+  
+  - (.length): tell me how many elelments are in the array
+
 ### Operators and Expressions
 
 - These are the shorthand operators:

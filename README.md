@@ -43,4 +43,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  3. [HTMl Lists, Control Flow with JS, and the CSS Box Model:](class03.md)
 
+ 4. [HTMl Links, JS  Functions, and Intro to CSS Layout:](class04.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
