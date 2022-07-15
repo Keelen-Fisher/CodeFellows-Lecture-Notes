@@ -45,4 +45,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  4. [HTMl Links, JS  Functions, and Intro to CSS Layout:](class04.md)
 
+ 5. [Images, Color, and Text:](class05.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
