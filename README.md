@@ -47,4 +47,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  5. [Images, Color, and Text:](class05.md)
 
+ 6. [Problem Domain, Objects, and the DOM:](class06.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
