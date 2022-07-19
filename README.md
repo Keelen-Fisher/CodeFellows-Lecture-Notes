@@ -49,4 +49,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  6. [Problem Domain, Objects, and the DOM:](class06.md)
 
+ 7. [Object-Oriented Programming, HTML Tables:](class07.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
