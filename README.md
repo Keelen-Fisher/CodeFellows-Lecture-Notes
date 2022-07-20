@@ -51,4 +51,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  7. [Object-Oriented Programming, HTML Tables:](class07.md)
 
+ 8. [CSS Flexbox:](class08.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
