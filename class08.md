@@ -10,9 +10,9 @@
 
 - You can specify what elements to lay out as flexible boxes by setting a special value of disply on the parent element of the elements you want to affect:
 
-- Section: ![section](c:/Users/Keelen/Desktop/Code%20Fellows%20Code%20201/flexbox%20example.png)
+- Section: ![section](Images/flexbox%20example.png)
 
-- Sample flexbox example: ![sample](c:/Users/Keelen/Desktop/Code%20Fellows%20Code%20201/flexbox%20display%20example.png)
+- Sample flexbox example: ![Sample](Images/flexbox%20display%20example.png)
 
 - Be mindful of text wrap when you use text boxes.
 
