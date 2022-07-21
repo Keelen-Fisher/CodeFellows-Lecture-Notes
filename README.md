@@ -53,4 +53,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  8. [CSS Flexbox:](class08.md)
 
+ 9. [HTML Forms and JS Events](class09.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
