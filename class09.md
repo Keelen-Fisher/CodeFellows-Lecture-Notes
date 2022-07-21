@@ -10,9 +10,9 @@
 
   - The form element defines a form and attributes that determine the form's behavior. Each time an HTML form must be created you have to use this element first.
 
-  - Fieldset & Legend elements; fieldset is a convinient way to create groups of widgets that share the same purpose for styling and semantic purposes, and the lengend formally describes the purpose of the fieldset it is included inside.
+  - Fieldset & Legend elements; fieldset is a convenient way to create groups of widgets that share the same purpose for styling and semantic purposes, and the legend formally describes the purpose of the fieldset it is included inside.
 
-  - Label element is the formal way to define a leabel for an HTML form widget, labeld as the most important form if you want to build accessible forms.
+  - Label element is the formal way to define a label for an HTML form widget, label as the most important form if you want to build accessible forms.
 
   - Input element is used to create interactive controls for web-based forms in order to accept data form the user.
 
