@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<main>
+
+  <!-- ALOT OF INFORMATION IN FORMS -->
+  <form id="my-form">
+    <fieldset>
+      <legend>Fieldset Context</legend>
+
+      <!-- inputs and labels: 2 options -->
+      <!-- Option 1: have input and label as siblings/ Important need "for" on label , "id", on input, tethers them together-->
+        
+      <label for="firstName">Name:</label>
+      <input type="firstName" name="text" name="firstName">
+
+      <!-- event.target.firstName.value === whatever the user enters -->
+
+      <label>Age:
+        <input type="number" name="age" required>
+        <!-- event.target.age.value -->
+      </label>
+
+      <label for="password">Password:</label>
+      <input type="password"type="password" name="password">
+
+      <select name="artists" id="rappers">
+
+        <option value="kdot">Kendrick Lamar</option>
+        <option value="dreamville">J. Cole</option>
+        <option value="bf">Brent Faiyaz</option>
+        <option value="none">N/A</option>
+        
+      </select>
+
+
+    </fieldset>
+
+  </form>
+</main>
+
+
+
+</html>

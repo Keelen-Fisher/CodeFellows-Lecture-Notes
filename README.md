@@ -55,4 +55,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  9. [HTML Forms and JS Events](class09.md)
 
+ 10. [What in the World Happened to my Code?? Debugging:](class10.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
