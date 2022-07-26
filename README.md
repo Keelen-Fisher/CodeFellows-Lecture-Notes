@@ -59,6 +59,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  11. [Audio, Video, Images:](class11.md)
 
+ 12. [Chart.js and Canvas](class12.md)
+
  [Personal Lessons from Code 201:](lifeLessons.md)
 
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
