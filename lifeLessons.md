@@ -109,4 +109,8 @@ Pseudo or Code: Could be in your preferred language or what the employer is look
 
 >> Teamwork is a beautiful thing for learning. I had the privilege to work with Sue for today's lab. Being able to listen while vocalizing where we needed to navigate our code brought out a way of thinking that I have not used since being in CodeFellows. There was so much to take away. First, conversation. Nowhere did we feel as if we lost each other to the point of having to backtrack tremendously. Also, there's comradery. Being able to lift each other up with so much confidence brings out a mindset that cools you down, and gets you more engaged. What a week. I am looking forward to the next.
 
+- Learning Journal 11:
+
+>> “Experience is what you get when you didn’t get what you wanted.” After out experience from last week over salmon-cookies, I have been more mindful of how I may approach problem domains. Audrey really assisted with helping me to understand how to effectively read the problem and apply key words to your code, along with some much needed reassurance. Moving forward, I have a new plan to create a plan of action before approaching the answer to prepare myself for Code 301.
+
 [Home](https://keelen-fisher.github.io/new-repository/)

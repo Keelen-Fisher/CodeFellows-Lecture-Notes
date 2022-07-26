@@ -92,6 +92,10 @@ cat = 'queeeee';
 
 - Defined as nothing/none
 
+## IMPORTANT! THIS IS HOW YOU ADD FILES AND FOLDERS IN YOUR VS CODE USING THE TERMINAL
+
+- ![VS CODE:](Images/How%20to%20add%20folders%20and%20files%20in%20VS%20Code%20from%20the%20terminal.png)
+
 ## Things I want to Know About
 
 [Home](https://keelen-fisher.github.io/new-repository/)
