@@ -10,9 +10,7 @@
 
 ## Quiz 5
 
-- A function ____________ loads before any code is executed.
-
-  - declaration
+- A function ***declaration*** loads before any code is executed.
 
 - The elements we need to put inside of a form are: input, button and ***Label***
 
@@ -30,11 +28,11 @@ function pugbombButtonHandler() {
 
 - In the following code which line shows the conflicting code from your working branch? ***The 2nd line***
 
-<<<<<<<<<<< HEAD
+ HEAD
   h1 Code Fellows h1
    ===========
   p Code Fellows p
-   >>>>>>>>>>> master
+master
 
 - What property is used to change the text color of an element? ***Color***
 
