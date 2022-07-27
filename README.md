@@ -63,6 +63,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  13. [Local Storage and How to Use it In Websites](class13.md)
 
- [Personal Lessons from Code 201:](lifeLessons.md)
+[Code 201 Quizzes](Code201Quizzes.md)
+
+[Personal Lessons from Code 201:](lifeLessons.md)
 
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
