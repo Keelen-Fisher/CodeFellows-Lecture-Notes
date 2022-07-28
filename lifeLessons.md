@@ -113,10 +113,17 @@ Pseudo or Code: Could be in your preferred language or what the employer is look
 
 >> “Experience is what you get when you didn’t get what you wanted.” After out experience from last week over salmon-cookies, I have been more mindful of how I may approach problem domains. Audrey really assisted with helping me to understand how to effectively read the problem and apply key words to your code, along with some much needed reassurance. Moving forward, I have a new plan to create a plan of action before approaching the answer to prepare myself for Code 301.
 
--Learning Journal 12:
+- Learning Journal 12:
 
 >> Sometimes, something is easier to learn than we expected it to be: I tried to apply my learning skills to chart.js but trying to interpret each line of code, in actuality it's from the library and we can simply add in to our code for simplicity and assistance.
 
  Sometimes, something is more difficult to learn than we expected it to be. I would assume that one problem domain would require less work with a small request, however the small request would evolve into a multistep process that can carry complex functions and methods.
+
+- Learning Journal 13:
+
+>> "Sometimes, something is more difficult to learn than we expected it to be."
+
+I had to learn more patience with new materials that will be utilized more in Code 301. Local storage was something that I had trouble with in the first time with the live class. Even with the help of the instructor in the office hour, not all of it is clicking with me. This is an example of having to do extensive research to understand more, maybe applying more code around the concept.
+
 
 [Home](https://keelen-fisher.github.io/new-repository/)
