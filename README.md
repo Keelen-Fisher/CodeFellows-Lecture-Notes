@@ -63,6 +63,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  13. [Local Storage and How to Use it In Websites](class13.md)
 
+ 14. [14a and 14b: CSS Transformations, Animations, and Transitions/What Google Learned From Its Quest to Build the Perfect Team](class14.md)
+
 [Code 201 Quizzes](Code201Quizzes.md)
 
 [Personal Lessons from Code 201:](lifeLessons.md)
