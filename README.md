@@ -69,4 +69,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Personal Lessons from Code 201:](lifeLessons.md)
 
+## Code 301
+
+[Prework:](code301Prework.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
