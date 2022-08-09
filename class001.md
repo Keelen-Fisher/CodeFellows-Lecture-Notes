@@ -12,9 +12,9 @@
 
   - ***Process-related View***: Instead of created each component from scratch, the system is building from existing components maintained in a library. As the software architecture is formulated, components are selected from the library and used to populate the architecture.
 
-- The Characteristics of Componenets:
+- The Characteristics of Components:
 
-  - **Resuability**: Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
+  - **Reusability**: Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
   - **Replaceable**: Components may be freely substituted with other similar components.
   - **Not Context Specific**: Components are designed to operate in different environments and contexts.
   - **Extensible**:  A component can be extended from existing components to provide new behavior.
