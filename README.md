@@ -73,4 +73,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Prework:](code301Prework.md)
 
+1. [Introduction to React and Components](class001.md)
+
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
