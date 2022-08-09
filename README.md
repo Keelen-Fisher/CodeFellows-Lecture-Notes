@@ -15,7 +15,7 @@
 
 Born and raised in Houston Texas, with my family being from Trinidad and Tobago; there were two things in life that facinated me from a kid to a yound man, that was the meaning of success and becoming a hero. I enjoy many things such as fitness, music, art, cooking, sports and reading, but the ability to create a legacy which can be passed down from one generation to another while showing that the impossible is possible was always my goal in life. From there, I ventured into many career paths. From Electrical Engineering, to Environmental Science, to Persoanl Training! Finally, to Computer Science. Now, I want to lead a path of aspiring futurists into a world of technical evolution through programming languages, while providing for my family. I aim to complete this curriculum and finish my journey making the world better, a stronger family, and with satisfaction.
 
-## Code 102
+## Code 102 - Intro to Software Developement
 
 1. [Class 1 Notes - Introduction and Growth Mindset:](class1.md)
 
@@ -35,7 +35,7 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
-## Code 201
+## Code 201 - Foundations of Software Development
 
  1. [Pre Work Notes: Class 01 Introduction to Web and HTML:](class01.md)
 
@@ -69,10 +69,12 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Personal Lessons from Code 201:](lifeLessons.md)
 
-## Code 301
+## Code 301 - Intermediate Software Development
 
 [Prework:](code301Prework.md)
 
 1. [Introduction to React and Components](class001.md)
+
+## Code 401 - Advanced Software Development in JavaScript
 
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
