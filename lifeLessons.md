@@ -125,5 +125,6 @@ Pseudo or Code: Could be in your preferred language or what the employer is look
 
 I had to learn more patience with new materials that will be utilized more in Code 301. Local storage was something that I had trouble with in the first time with the live class. Even with the help of the instructor in the office hour, not all of it is clicking with me. This is an example of having to do extensive research to understand more, maybe applying more code around the concept.
 
+## Code 301 Retrospectives and Lessons
 
 [Home](https://keelen-fisher.github.io/new-repository/)
