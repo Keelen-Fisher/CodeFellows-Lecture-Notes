@@ -27,6 +27,8 @@ getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_
 
 - Some examples of things that we could store in state could be Inside of a form, where you have values in options.
 
+- For state: It is nothing more than data that is managed by components. You can NEVER change state DIRECTLY. You can create your initial state and then change the state to another value/paramater. this.setState is a function that can take in the object of a new vairable that is set equal to an object.
+
 ## Things I want to Know About
 
 [Home](https://keelen-fisher.github.io/new-repository/)
