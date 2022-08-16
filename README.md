@@ -75,6 +75,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 1. [Introduction to React and Components](class001.md)
 
+2. [State and Props](class002.md)
+
 ## Code 401 - Advanced Software Development in JavaScript
 
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
