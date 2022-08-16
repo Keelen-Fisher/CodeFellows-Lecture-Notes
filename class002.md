@@ -21,7 +21,7 @@ getSnapshotBeforeUpdate, componentDidUpdate, UNSAFE_componentWillUpdate, UNSAFE_
 
 - Counter applications within, such as the initial count or if you want to store in titles, images and alt text are types of passing through props.
 
-- Props handles outstide of the component whereas states are inside of the component and can be updated.
+- Props handles outside of the component whereas states are inside of the component and can be updated.
 
 - You re-render when you change the state inside of the component.
 
