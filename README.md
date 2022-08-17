@@ -77,6 +77,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 2. [State and Props](class002.md)
 
+3. [Passing Functions as Props](class003.md)
+
 ## Code 401 - Advanced Software Development in JavaScript
 
 A **BIG** Thank you to Kassie Bradshaw and Audrey Patterson for the amazing programming teachings!!
