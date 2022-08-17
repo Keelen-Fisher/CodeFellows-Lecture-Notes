@@ -39,3 +39,9 @@
 How can you pass a method from a parent component into a child component? ***Will need to come back to this question, I am not sure.***
 
 - How does the child component invoke a method that was passed to it from a parent component? you can set the name of the function equal to this.<name of function> also, by doing this.props.<name of function> within the invoke call parameter, you can grab the object from the original by this.props.<name of object>
+
+## Things I want to Know About
+
+- Parent and child components, I'm still very confused about its relationship between them.
+
+[Home](https://keelen-fisher.github.io/new-repository/)
