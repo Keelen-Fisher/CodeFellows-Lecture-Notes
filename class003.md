@@ -36,7 +36,7 @@
 
 - In your own words, what does the increment function do? The increment function is going to serve as a way to grab the specific object within array produced, then create a loop that can use the object to establish a conditional statement that ensure that the object is true to our request, if so, the count that is connected to the object will increment the value.
 
-How can you pass a method from a parent component into a child component? ***Will need to come back to this question, I am not sure.***
+- How can you pass a method from a parent component into a child component? ***Will need to come back to this question, I am not sure.*** *From my research, you would need to insert the child's class name as "Child.(function call)*
 
 - How does the child component invoke a method that was passed to it from a parent component? you can set the name of the function equal to this.[name of function] also, by doing this.props.[name of function] within the invoke call parameter, you can grab the object from the original by this.props.[name of object]
 
