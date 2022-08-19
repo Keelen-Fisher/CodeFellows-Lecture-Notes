@@ -37,3 +37,7 @@ Line 2 returns the m function to return m being less than n.
 - Explain how either map or reduce operates, with regards to higher-order functions.
 
 - Example of High Order with reduce/fitler opertation: ![High](Images/High%20Order%20using%20filter%20and%20map.png)
+
+### Things I want to Know About
+
+[Home](https://keelen-fisher.github.io/new-repository/)
