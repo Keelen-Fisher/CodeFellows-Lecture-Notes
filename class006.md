@@ -34,6 +34,14 @@ The V8 engine is the open-source JavaScript engine that runs in Google Chrome an
 
 - Pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
 
+## Front End and Back End
+
+- What is API? API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
+
+- What is Axios? It is a "Carrier Pigeon", so we are using this as a way to do API Calls.
+
+- What is .get()? This is going to retrieve something from..... somewhere.
+
 ### Things I want to Know About
 
 [Home](https://keelen-fisher.github.io/new-repository/)
