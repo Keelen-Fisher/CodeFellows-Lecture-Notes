@@ -5,7 +5,7 @@
 - Node Is Built on Google Chrome’s V8 JavaScript Engine
 The V8 engine is the open-source JavaScript engine that runs in Google Chrome and other Chromium-based web browsers, including Brave, Opera, and Vivaldi. It was designed with performance in mind and is responsible for compiling JavaScript directly to native machine code that your computer can execute. The creator of Node (Ryan Dahl) took the V8 engine and enhanced it with various features, such as a file system API, an HTTP library, and a number of operating system–related utility methods.
 
-- In your own words, what is Chrome’s V8 JavaScript Engine? This JS engine was written to be executed by web browsers, which in effect can make server-side scripting possible. It's fast and powerful, meaining that it tanslates JS code directly into machine code.
+- In your own words, what is Chrome’s V8 JavaScript Engine? This JS engine was written to be executed by web browsers, which in effect can make server-side scripting possible. It's fast and powerful, meaning that it translates JS code directly into machine code.
 
 - What does it mean that node is a JavaScript runtime? It means that it is a software stack responsible for installing your web service's code and its dependencies and running your service.
 
