@@ -85,6 +85,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 6. [Node.JS and Reasons for Pair Programming](class006.md)
 
+7. [REST](class007.md)
+
 ## Code 401 - Advanced Software Development in JavaScript
 
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
