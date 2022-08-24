@@ -1,4 +1,4 @@
-# APIS
+# APIs
 
 ## API Design Best Practices
 
