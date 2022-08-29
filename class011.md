@@ -52,7 +52,7 @@ Otherwise known as "humongous"
 - What is inside of a Mongo database?
 
 - Which is more flexible - SQL or MongoDB? and why.
-This depends on what your data consists of. If you want more accessibility in a new language with little to a moderate amount of code, then SQL is the way to go. NoSQL is made for larger amounts of code. NoSQL is more flexible if you have troubles with formating your data. There is also scaling your data, SQL has horizontal as being diffcult but vertical being very possible. Which could be good so that you can add more servers. NoSQL is good in vertical and horizontal scaling.
+This depends on what your data consists of. If you want more accessibility in a new language with little to a moderate amount of code, then SQL is the way to go. NoSQL is made for larger amounts of code. NoSQL is more flexible if you have troubles with formatting your data. There is also scaling your data, SQL has horizontal as being difficult but vertical being very possible. Which could be good so that you can add more servers. NoSQL is good in vertical and horizontal scaling.
 
 - What is the disadvantage of a NoSQL database?
 It is Schema-less
