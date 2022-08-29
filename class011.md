@@ -38,3 +38,7 @@
 - Which is more flexible - SQL or MongoDB? and why.
 
 - What is the disadvantage of a NoSQL database?
+
+### Things I want to Know About
+
+[Home](https://keelen-fisher.github.io/new-repository/)
