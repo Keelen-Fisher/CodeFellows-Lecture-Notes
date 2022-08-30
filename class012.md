@@ -14,11 +14,13 @@ In case of asynchronous processing of a request (202), this doesn’t mean the r
 What is a status code 308?
 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore. It’s helpful when we have multiple endpoints for one resource, but don’t want to implement reading from all of them.
 
-What code would you use if an update didn’t return data to a client?
+- What code would you use if an update didn’t return data to a client?
 `204`
-What code would you use if a resource used to exist but no longer does?
+
+- What code would you use if a resource used to exist but no longer does?
 `400`
-What is the ‘Forbidden’ status code?
+
+- What is the ‘Forbidden’ status code?
 `403`
 
 ### Things I want to Know About
