@@ -8,7 +8,7 @@
 PUT is an HTTP method used to update resources. As opposed to replacing resources.
 
 - Which REST methods require an ID parameter?
-POST method requires an ID Parameter
+The Delete & Update method would require an ID parameter
 
 [SPEED RUN: Build a CRUD API with Node.js + Express + MongoDB](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
 
@@ -18,7 +18,7 @@ CRUD is a cycle meant for maintaining permanent records in a database setting. C
 
 - If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
-  - Build a server.js and don't forget you installation process by install express to have your routes and middleware
+  - Build a server.js and don't forget your installation process by install express to have your routes and middleware
   - In your server.js, build your requirements and then build your route. First route is app.get, then you will need to create by making a .post, a way to update by making a .put, and to delete by making a .delete.
   - Build your port in the .env, then go to the server.js to set a PORT variable equal to your key value in the .env file.
   - Set your Mongo API by grabbing your connection Key from the Database, set that into your .env file, then set the mongoose.connection.
