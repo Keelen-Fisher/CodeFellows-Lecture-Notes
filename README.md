@@ -97,6 +97,12 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 12. [CRUD](class012.md)
 
+13. [More CRUD and CRUD Basics](class013.md)
+
+    [Code 301 Assessment Notes](Code301AssessNotes.md)
+
+14. [Diversity & Inclusion in the Tech Industry](class014.md)
+
 ## Code 401 - Advanced Software Development in JavaScript
 
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
