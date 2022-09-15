@@ -48,11 +48,11 @@
 
 ## Manual Pages-[- Learn how to make the most of the Linux commands you are learning.](https://ryanstutorials.net/linuxtutorial/manual.php)
 
-- man `<command>` - 
+- man `<command>` -
 Look up the manual page for a particular command.
-- man -k `<search term>` - 
+- man -k `<search term>` -
 Do a keyword search for all manual pages containing the given search term.
-- /`<term>` - 
+- /`<term>` -
 Within a manual page, perform a search for 'term'
 - `n` -
 After performing a search within a manual page, select the next found item.
@@ -72,3 +72,5 @@ After performing a search within a manual page, select the next found item.
 - As with rmdir, removing a file is an action that may not be undone so be careful. The command to remove or delete a file is `rm` which stands for remove.
 
 ## Cheat Sheet-[A quick reference for the main points covered in this tutorial](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
+[Home](https://keelen-fisher.github.io/new-repository/)

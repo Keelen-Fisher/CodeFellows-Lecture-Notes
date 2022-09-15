@@ -19,3 +19,5 @@
 - From the article: "When the employees of an organization better represent their users and desired users, they will build more effectively for those groups. When YouTube’s almost entirely right-handed developer team built the iOS app without considering how left-handed people would use it, for example, 5% to 10% of videos were uploaded upside down as a result. This factor may be especially relevant for leaders of consumer tech companies.
 
 When Tracy Chou of Pinterest shared the company’s demographic information last year, she explained: 'We only stand to improve the quality and impact of our products if the people building them are representative of the user base and reflect the same diversity of demography, culture, life experiences and interests that makes our community so vibrant.'"
+
+[Home](https://keelen-fisher.github.io/new-repository/)
