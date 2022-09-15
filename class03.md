@@ -6,7 +6,7 @@
 
 - In your HTML, You should use an unordered list in you HTML document when you have bullet typed lists, and you have sub lists within the same types lists. Kind of like this note!! It is also for grouping a collection of items that do not have any numeric value. The forms of lists can be a dot , circle, or square.
 
-![Example](Unordered%20Lists%20Example.png)
+![Example](Images/Unordered%20Lists%20Example.png)
 
 - One way to change the bullet style of unordered list items is by changing its type in HTML, typing in the prefered shape.
 
@@ -64,7 +64,7 @@
 
 - These are the shorthand operators:
 
-- ![Example](Shorthand%20Operators%20.png)
+- ![Example](Images/Shorthand%20Operators%20.png)
 
 - Using loops in JS can be helpful when you want to repeat the prompt/question
 

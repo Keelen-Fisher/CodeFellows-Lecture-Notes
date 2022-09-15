@@ -107,4 +107,14 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 ## Code 401 - Advanced Software Development in JavaScript
 
+[New Growth Mindset](GM401.md)
+
+[Data Structures and Algorithms](401DSA.md)
+
+[Engineering Readings](401ER.md)
+
+[Introduction to SQL](401ISQL.md)
+
+[Terminal Practice](terminalpract.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!

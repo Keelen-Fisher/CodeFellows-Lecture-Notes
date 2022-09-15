@@ -20,9 +20,9 @@
 
 ## Strings vs. Number Application in JavaScript
 
-- For String, It's a sequence of text. An example of is Shown: ![String](String%20vs.%20Number%20in%20JS%20String%20.png)
+- For String, It's a sequence of text. An example of is Shown: ![String](Images/String%20vs.%20Number%20in%20JS%20String%20.png)
 
-- For Number, it requires no quotations around the value. An example of it is shown: ![Number](String%20vs.%20Number%20in%20JS%20Number.png)
+- For Number, it requires no quotations around the value. An example of it is shown: ![Number](Images/String%20vs.%20Number%20in%20JS%20Number.png)
 
 ## Introduction to HTML
 

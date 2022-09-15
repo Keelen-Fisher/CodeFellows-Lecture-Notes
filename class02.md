@@ -6,9 +6,9 @@
 
 - There are currently 6 heading elements: h1, h2, h3, h4, h5, h6. h1 represents the main heading, with all the rest being subheadings
 
-- The sup element is short for Superscript, which can specify an inline text. Here's an example: ![sup](Example%20of%20sup%20element%20in%20HTML.png)
+- The sup element is short for Superscript, which can specify an inline text. Here's an example: ![sup](Images/Example%20of%20sup%20element%20in%20HTML.png)
 
-- The sub element is short for Subscript, another way of specifying inline text for a lower number. Here's an example: ![sub](Example%20of%20sub%20element%20in%20HTML.png)
+- The sub element is short for Subscript, another way of specifying inline text for a lower number. Here's an example: ![sub](Images/Example%20of%20sub%20element%20in%20HTML.png)
 
 - When using the abbr element, it is important to use the attribute title to display the full expansion of the term.
 
@@ -22,7 +22,7 @@
 
 - Inline Styles: These are CSS implications within a single HTML element, still using style element. This style however, should be avoided due to its inefficiency of implementation. This can cause unessesary code edits for just one change.
 
-- using this image: ![example](Block%20of%20code%20example%20HTML%20.png):
+- using this image: ![example](Images/Block%20of%20code%20example%20HTML%20.png):
 
 - h1 is the selector, color: black; repesents the CSS declaration, and the padding represents the properties.
 

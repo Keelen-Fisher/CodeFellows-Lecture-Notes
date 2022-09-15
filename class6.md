@@ -60,11 +60,11 @@ You are also able to comment out lines of code similar to CSS
 
 - You have conditions with is like a test of certain expressions: the if..else statements.
 
-![Example:](Conditions-Javascript.png)
+![Example:](Images/Conditions-Javascript.png)
 
 - Next are functions, this allows you to write the same code due to the same code being packaged into a function.
 
-![Example](Functions-Javascript.png)
+![Example](Images/Functions-Javascript.png)
 
 - Diving Deeper into JavaScript:
 
