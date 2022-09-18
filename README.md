@@ -117,4 +117,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Terminal Practice](terminalpract.md)
 
+[Git Practice Notes](GITPract.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
