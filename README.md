@@ -119,4 +119,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Git Practice Notes](GITPract.md)
 
+1. [Node Ecosystem](class0001.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
