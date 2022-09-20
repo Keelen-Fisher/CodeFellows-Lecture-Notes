@@ -121,4 +121,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 1. [Node Ecosystem](class0001.md)
 
+2. [Express, NPM, TDD, CI/CD](class0002.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
