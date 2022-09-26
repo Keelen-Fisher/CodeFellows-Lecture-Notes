@@ -127,4 +127,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 4. [Data Modeling](class0004.md)
 
+5. [Linked List](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
+
+6. [Authentication](class0006.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
