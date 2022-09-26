@@ -14,9 +14,29 @@ Bcrypt is an adaptive hash function based on the blowfish symmetric block cipher
 
 This function can remain to be resistant to brute-force search attacks despite the computation power of the attacker. This can make the process of stealing data to be slower.
 
+## Encoding and encrypting:
+
+- What does encrypting mean?  
+
+  - Hides information from everyone using salt and pepper  
+    - can only be decypted using a  key
+    - salt: random noise/filter
+    - pepper: secrete variable
+    - Done by bcrypt
+    - Can has a password more than once.
+
+We create a hash, when we encrypt.
+
+- Why do we encrypt:
+  - safeguard information
+  - manage liability
+
 ## Basic Auth [READ:](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
 - What is Basic Authentication?
+
+***Authentication*** - are you who you say you are?
+***Authorization***- are you allowed to do the "thing" based on the role you have been given?
 
 Basic Access Authentication is a method that provides a user name and password for the user when making a request.
 
