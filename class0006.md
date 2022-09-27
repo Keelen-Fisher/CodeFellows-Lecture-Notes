@@ -14,7 +14,7 @@ Bcrypt is an adaptive hash function based on the blowfish symmetric block cipher
 
 This function can remain to be resistant to brute-force search attacks despite the computation power of the attacker. This can make the process of stealing data to be slower.
 
-## Encoding and encrypting:
+## Encoding and encrypting
 
 - What does encrypting mean?  
 

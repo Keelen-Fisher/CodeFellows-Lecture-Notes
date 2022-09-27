@@ -131,4 +131,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 6. [Authentication](class0006.md)
 
+7. [Bearer Authorization](class0007.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
