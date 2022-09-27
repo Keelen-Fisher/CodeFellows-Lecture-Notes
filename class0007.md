@@ -6,6 +6,12 @@
 
 It is an open standard that defines a compact and self-contained way of securely transmitting information between parties as a JSON object.
 
+- What is the anatomy of a token?
+
+  - a. header
+  - b. payload: data content / body (username, password, roles)
+  - c. signiture: SECRET -> this is how we keep out JWT secure.
+
 - When should we use JSON Web Tokens?
 
 Should be used when:
