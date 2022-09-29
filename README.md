@@ -119,6 +119,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Git Practice Notes](GITPract.md)
 
+[Whiteboard Interview Process]()
+
 1. [Node Ecosystem](class0001.md)
 
 2. [Express, NPM, TDD, CI/CD](class0002.md)
