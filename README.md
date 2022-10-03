@@ -119,7 +119,7 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 [Git Practice Notes](GITPract.md)
 
-[Whiteboard Interview Process]()
+[Whiteboard Interview Process](InterviewHelp.md)
 
 1. [Node Ecosystem](class0001.md)
 
@@ -135,4 +135,12 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 7. [Bearer Authorization](class0007.md)
 
-A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos and Adam Owada for the amazing programming lessons!!
+8. [Access Control (ACL)](class0008.md)
+
+9. []()
+
+10. [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+
+11. [Event Driven Applications](class0011.md)
+
+A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
