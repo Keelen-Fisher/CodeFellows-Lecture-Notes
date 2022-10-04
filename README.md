@@ -143,4 +143,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 11. [Event Driven Applications](class0011.md)
 
+12. [Socket.io](class0012.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
