@@ -1,9 +1,12 @@
 # Keelen Fisher's Reading Notes
 
-> Fitness and Boxing Enthusiast
-> Nutritonal Coach
-> BIG TIME Chef
-> Most of all, excited about CodeFellows!
+>> Fitness and Boxing Enthusiast
+
+>> Nutritonal Coach
+
+>> BIG TIME Chef
+
+>> Most of all, excited about CodeFellows!
 
 * A Great Place to Start Coding, Because it **IS** Possible!!*
 
@@ -144,5 +147,7 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 11. [Event Driven Applications](class0011.md)
 
 12. [Socket.io](class0012.md)
+
+13. [Message Queues](class0013.md)
 
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
