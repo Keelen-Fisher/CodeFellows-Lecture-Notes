@@ -110,6 +110,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 ## Code 401 - Advanced Software Development in JavaScript
 
+[11 Of Our Favorite Tech Podcasts For 2021, by Dr. Robin S. Apparicio](https://www.codefellows.org/blog/our-favorite-tech-podcasts-for-2021/)
+
 [New Growth Mindset](GM401.md)
 
 [Data Structures and Algorithms](401DSA.md)
@@ -149,5 +151,11 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 12. [Socket.io](class0012.md)
 
 13. [Message Queues](class0013.md)
+
+14. []()
+
+15. [DataStructures: Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+
+16. [AWS: Cloud Servers](class0016.md)
 
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
