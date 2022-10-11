@@ -18,11 +18,19 @@
 
 "With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements"
 
+- Bucket:
+
+Object Storage.
+
 ## AWS Lambda Basics [VIEW](https://www.serverless.com/aws-lambda)
 
 - What is AWS Lambda?
 
 AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS). Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtimes, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
+
+It is a function with a specific syntax.
+
+This: `=>` is a "fat arrow": in lambda, and javaScript arrow function
 
 - Name some use cases for AWS Lambdas.
 
@@ -33,6 +41,8 @@ AWS Lambda is a serverless computing service provided by Amazon Web Services (AW
 - Describe “serverless” to a non-technical friend.
 
 This means that you do not need to constantly over look the server in order to build and run functions that youve created. This decreases the amount of headache that you may endure.
+
+A lot more servers at AWS, meaning that there will be a smaller amount of big monolithic servers that has to handle all things. Instead we have a series of (micro) services potentially hosted on the cloud. Think cloud computing, think aws managing infrastructure
 
 ## CDN [VIEW](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
 
