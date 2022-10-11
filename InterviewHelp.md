@@ -165,7 +165,7 @@ ________________________________________________________________________________
 - Add up all the points at the end, and record the total at the bottom of the page.
 
 Example
-Input	Output
+Input Output
 head->{t}->{a}->{c}->{o}->{c}->{a}->{t}: TRUE
 head->{m}->{o}->{o}->{m}: TRUE
 head->{h}->{o}->{u}->{s}->{e}: FALSE
@@ -206,8 +206,75 @@ ________________________________________________________________________________
   - Add up all the points at the end, and record the total at the bottom of the page.
 
 Example
-Input                                  Output
-head->{3}->{2}->{1}  **Reverts to:** head->{1}->{2}->{3}
-head->{'a'}->{'b'}->{'c'} ***reverts to:*** head->{'c'}->{'b'}->{'a'}
+
+Input:
+head->{3}->{2}->{1}  **Reverts to:**
+
+Output:
+head->{1}->{2}->{3}
+
+Input:
+head->{'a'}->{'b'}->{'c'} ***Reverts to:***
+
+output
+head->{'c'}->{'b'}->{'a'}
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Interview 05
+
+### Max stack. Write a method that returns the “biggest” element in a stack
+
+- Feature Tasks
+  - Ask the candidate to write a ‘Max Stack’ which is defined as a Stack with an additional getMax() member function which returns the ‘biggest’ element in the Stack.
+  - The candidate can assume that only numeric values will be stored in the Stack, but she/he has to ask before the interviewer can state this.
+  - The internal memory of the Stack can be approached in different ways.
+
+    - Using a Linked List
+      - This approach uses O(n) space.
+
+    - Using an Array
+      - This approach can either use O(n) space or O(c) where c is the size of the array in static-size arrays.
+      - If your language doesn’t support dynamic arrays,Inquire about the candidate’s decision of using a limited amount of storage for the Stack.
+
+    - Using a Node class and manually creating connections by maintaining a reference to the ‘top’ of the stack.
+    - This approach uses O(n) space.
+
+- This ‘getMax()’ member function can be approached in several ways as well:
+  - Modifying the traditional push and pop methods to keep track on the maximum value so far.
+  - Use a maxStack instance variable, and each time you push a number, you check if it’s >= the peek on maxStack; if so, push it onto both maxStack and the actual stack. Then when popping, check if equal to max on maxStack, and if so, also pop maxStack.
+    - This solution takes O(1) time to both maintain and retrieve the maximum value.
+
+- Traversing the entire Stack to calculate the maximum value.
+  - This solution takes O(n) time.
+  - If the candidate is considering this approach, comment on the fact that there might be a more efficient way to calculate the maximum value, but avoid providing specific details.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Interview 06
+
+### Duck Duck Goose
+
+- People are standing in a circle playing Duck Duck Goose. Counting begins at a specified point in the circle and proceeds around the circle in a specified direction. After a specified number of people are skipped, the next person is removed. The procedure is repeated with the remaining people, starting with the next person, going in the same direction and skipping the same number of people, until only one person remains, and wins the game.
+
+- Write a function called `DuckDuckGoose()` that accepts some strings and an int `k`. Start at the beginning and count up to `k` and remove the person at that position. Keep counting from that index and count up to `k` over and over until only one person is left. Return a string with the name of the last person left.
+ Example:
+
+      n=3
+      A, B, C, D, E  // 1: A; 2: B; 3: C
+      A, B, D, E     // C was removed
+      B, D, E        // A was removed
+      B, D           // E was removed
+      D              // B was removed
+                // only D is left 
+
+- Feature Tasks
+  - Ask the candidate to write a function to execute the game described above, using only a Queue.
+  - Help the candidate understand the rules of the game if they are unsure of it.
+    - Feel free to share the example above to show an example
+
+  - Avoid utilizing any of the built-in methods available in your language.
+
+  - This problem can be solved using a queue:
+    - One solution is to enqueue and dequeue k number of times. Once k is hit, skip the enquque process for that entry, removing it from the queue. Repeat until there is only 1 node in the queue remaining.
+      - This method takes O(n * k) time and uses O(1) (constant) space during this process.
