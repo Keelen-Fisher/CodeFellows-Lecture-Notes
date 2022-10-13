@@ -26,6 +26,8 @@ Many AWS services support integration with Amazon API Gateway, including:
 
 Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications.
 
+In this class, we will use this as the connection between our DynamoDB and our Route handler (Lambdas)
+
 - What two API types might you choose from?
 
   - [RESTful APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
@@ -71,6 +73,8 @@ Dynamoose is a modeling tool for Amazon's DynamoDB. Dynamoose is heavily inspire
   - Powerful Conditional/Filtering Support
   - Callback & Promise support
   - AWS Multi-region support
+
+- You can also compare DynamoDB and Dynamoose to:| MongoDB and Mongoose | postgres and sequelize
 
 ### Things I want to Know About
 
