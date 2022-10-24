@@ -2,6 +2,12 @@
 
 ## AWS SQS vs SNS [READ](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
+- What is SNS? Simple Notification Service (can be standard or FIFO)
+
+  - Topic: A single event in SNS (4 CAPS: PICKUP, TRANSIT, DELIVERED, RECEIVED)
+  
+- SQS: Simple Queue Service (can be standard or FIFO)
+
 - What is the difference between SQS and SNS?
 
 SNS is a distributed publish-subscribe service.  Messages are pushed to subscribers as and when they are sent by publishers to SNS. It also supports several end points such as email, sms, http end point and SQS.
