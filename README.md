@@ -164,6 +164,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 19. [AWS: Events](class0019.md)
 
-26. [Component Based UI](class0026.md)
+20. [Component Based UI](class0026.md)
+
+21. [useState() Hook](class0027.md)
 
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
