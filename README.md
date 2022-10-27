@@ -168,4 +168,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 21. [useState() Hook](class0027.md)
 
+22. [useEffect() Hook](class0028.md)
+
+23. [Advanced State with Reducers](class0029.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
