@@ -178,4 +178,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 26. [`<Login />` and `<Auth />`](class0033.md)
 
+27. [API Integration](class0034.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
