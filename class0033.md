@@ -49,3 +49,5 @@ react-cookies library, because of the methods and its difference between the met
 - What are your learning goals after reading and reviewing the class README?
 
 I would like to learn more about management role features and functions.
+
+[Home](https://keelen-fisher.github.io/new-repository/)

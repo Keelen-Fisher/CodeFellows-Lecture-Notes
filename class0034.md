@@ -39,3 +39,5 @@
 - What are your learning goals after reading and reviewing the class README?
 
    I intend to learn more about user roles and how they interact with React, along with how to use more methods from cookies.
+
+[Home](https://keelen-fisher.github.io/new-repository/)
