@@ -182,4 +182,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 28. [Application State with Redux](class0036.md)
 
+29. [Redux - Combined Reducers](class0037.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
