@@ -48,3 +48,5 @@ After sliced state.
 - What are your learning goals after reading and reviewing the class README?
 
 I would like to learn more about how to combine multiple reducers using `combineReducers`, and the practicality of returning a new state when trying to manage state if it is an immutable object.
+
+[Home](https://keelen-fisher.github.io/new-repository/)
