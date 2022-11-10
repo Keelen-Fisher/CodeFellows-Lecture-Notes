@@ -184,4 +184,8 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 29. [Redux - Combined Reducers](class0037.md)
 
+30. [Asynchronous Actions](class0038.md)
+
+31. [Redux - Additional Topics](class0039.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
