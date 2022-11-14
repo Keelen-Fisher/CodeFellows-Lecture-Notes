@@ -188,4 +188,6 @@ Born and raised in Houston Texas, with my family being from Trinidad and Tobago;
 
 31. [Redux - Additional Topics](class0039.md)
 
+32. [React Native](class0041.md)
+
 A **BIG** Thank you to Kassie Bradshaw, Audrey Patterson, John Cokos Adam Owada, Ryan Gallawy Robin Apparicio, and all of the TAs for the amazing programming lessons!!
