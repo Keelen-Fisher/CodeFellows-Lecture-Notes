@@ -278,3 +278,26 @@ ________________________________________________________________________________
   - This problem can be solved using a queue:
     - One solution is to enqueue and dequeue k number of times. Once k is hit, skip the enquque process for that entry, removing it from the queue. Repeat until there is only 1 node in the queue remaining.
       - This method takes O(n * k) time and uses O(1) (constant) space during this process.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Interview 07
+
+## Sum of numbers in a binary tree
+
+## Feature Task
+
+- Find the sum of all the odd numbers in a binary search tree.
+  - Any of the traversals (depth or breadth) are acceptable.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Interview 08
+
+## Compare Trees
+
+## Feature Tasks
+
+- You are working with a file structure with only at most 2 files or folders. Each file directory has either one or two folders/files.
+
+- Comparing two different file directories, create a method that takes in 2 directory structures and compares both and determines whether or not they have the same number of individual files.
