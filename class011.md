@@ -60,6 +60,39 @@ No-very few relations
 
 [Video on SQL vs. NoSQL:](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
+### Class 11 In-Class Notes
+
+- What is a database? **A place where you can store data**
+
+  - Two types:
+
+    - Rational: SQL (MySQL, PostgreSQL)
+
+     ![Alt text](Images2/SQL%20Database%20example.png)
+
+    - Non-Relational: NoSQL (Mongo, Couchbase....etc.)
+  
+      - Everything saves as a document made up of JSON
+      - We can also use an ODM such as Mongoose to give non-relational databases structure.
+      - ODM(Object Document Modeling): Gives us a way to map out some structure in out non-relational database. Example: JSON and Schema.
+
+- Mongoose: Gives us the ability to create data models that use a specific schema.
+  
+  - Schema: Diagram or template of what the data will look like.
+
+  - Model: Model comes with all the functionality of what we need to implement and interact and interact with our data
+
+- For Today's lab, we will be using MongoDB. We need to connect the MongoDb to your server using the connection string in your mongoDB
+
+  - Example String: mongodb+srv://keelencarrera:<password for mongoDB>@cluster0.pycsadd.mongodb.net/<name of your created database>?retryWrites=true&w=majority
+
+  - To bring in Mongoose: npm i mongoose
+  - inside of your env file:
+    - PORT=3001
+    - Db_URL=<your connection string>
+
+  - Next, you will want to create a connection from your mongoose, this is similar to using your app.listen for your PORT. There is a document that may help when if comes to [Adding your validation to confirm that your backend is wired up to your mongoDB](https://www.tabnine.com/code/javascript/functions/mongoose/Connection/once)
+
 ### Things I want to Know About
 
 [Home](https://keelen-fisher.github.io/new-repository/)
